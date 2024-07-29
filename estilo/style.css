@@ -1,0 +1,35 @@
+@charset "UTF 8";
+
+body{
+    background-color: rgb(237, 237, 237);
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    min-height: 150px;
+    margin-bottom: 20px;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+header{
+    background-color: rgb(190, 190, 190);
+    min-height: 150px;
+    max-width: 1000px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+    min-width: 300px;
+    max-width: 1000px;
+    background-color: rgb(190, 190, 190);
+    
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
